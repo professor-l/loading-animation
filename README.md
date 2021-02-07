@@ -1,0 +1,3 @@
+# Loading Animation
+
+This repository contains a [simple webpage](https://professor-l.github.io/loading-animation), intended to be rendered as an OBS Browser source. The default animation is a simple equation in paramtric geometry, modeled in desmos [here](https://www.desmos.com/calculator/fpctqpqzkl) by Kibi Byte, but substituting alternate equations (and adjusting the coefficient calculations according to their domain and range) should be trivial. The rainbow effect is also easily altered by overriding the color interpolation method on the `Animator` class. I have no immediate plans to further refine this, but I'm also leaving it up because it looks cool and it only took me a couple hours, and it is by no means archived or deprecated.
